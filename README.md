@@ -10,7 +10,7 @@ This repository contains the source code for my personal portfolio website. It's
 
 You can view the live version of the portfolio here:
 
-**[https://Praharsha08.github.io/Portfolio-praharsha/](https://Praharsha08.github.io/Portfolio-praharsha/)**
+**file:///C:/Users/praha/OneDrive/Desktop/portfolio/index.html#home**
 
 ---
 

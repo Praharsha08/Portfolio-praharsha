@@ -10,7 +10,7 @@ This repository contains the source code for my personal portfolio website. It's
 
 You can view the live version of the portfolio here:
 
-**[https://Your-Username.github.io/Your-Repository-Name/](https://Your-Username.github.io/Your-Repository-Name/)**
+**[https://Praharsha08.github.io/Portfolio-praharsha/](https://Praharsha08.github.io/Portfolio-praharsha/)**
 
 ---
 
@@ -42,11 +42,11 @@ To view or edit this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Your-Username/Your-Repository-Name.git](https://github.com/Your-Username/Your-Repository-Name.git)
+    git clone [https://github.com/Praharsha08/Portfolio-praharsha.git](https://github.com/Praharsha08/Portfolio-praharsha.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd Your-Repository-Name
+    cd Portfolio-praharsha
     ```
 3.  **Open the site:**
     Simply open the `index.html` file in your favorite web browser.
